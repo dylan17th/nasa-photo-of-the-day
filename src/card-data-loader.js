@@ -10,6 +10,8 @@ flex-wrap: wrap;
 `
 const Card_Data_heading = styled.h1`
 width:100%;
+color:white;
+text-align: center;
 `
 
 
